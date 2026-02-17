@@ -117,6 +117,8 @@ A pre-built Grafana dashboard is included in `Grafana-Dashboard.json` for visual
 - Restart history
 - System metrics
 
+![Grafana Dashboard](images/Grafana-Dashboard.png)
+
 Import the dashboard into your Grafana instance to get started with monitoring.
 
 ## Requirements
